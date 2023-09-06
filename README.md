@@ -5,9 +5,9 @@ M.Sc. Student @ Uni Stuttgart
 
 ### About me...
 
-I enjoy bringing new functionalities into all aspects of life (especially the automotive sector) by leveraging the power of Deep Learning methods. 
+I enjoy bringing new functionalities to all aspects of life (especially the automotive sector) by leveraging the power of Deep Learning methods. 
 
-While I got into Artificial Intelligence at the end of my Bachelor's degree in Automotive Engineering at HS Esslingen, I'm currently enjoying learning more about Deep Learning and Computer Vision in the Master's programme in Electromobility at the Uni Stuttgart.
+While I got into Artificial Intelligence at the end of my Bachelor's degree in Automotive Engineering at HS Esslingen, I'm currently enjoying learning more about Deep Learning and Computer Vision in the Master's programme in Electromobility at the University of Stuttgart.
 
 Key skills: Deep Learning and Computer Vision in <img align='center' src="https://img.shields.io/badge/Python-000000?style=flat&logo=python"> with <img align='center' src="https://img.shields.io/badge/Tensorflow-000000?style=flat&logo=tensorflow">.
 
@@ -22,7 +22,7 @@ Key skills: Deep Learning and Computer Vision in <img align='center' src="https:
     |:--:|:--:|
     |Concept| Input/Output|
     
-    This thesis investigates whether monocular vision can be used for real-time 3D estimation of road profiles. Since the road profile significantly affects passenger comfort and vehicle dynamics, its estimation is crucial for active suspension systems allowing to improve both aspects. The developed concept combines a Visual Odometry approach (i.e. [DVSO](https://arxiv.org/abs/1807.02570)) with a dense reconstruction method  (i.e. [MonoRec](https://arxiv.org/abs/2011.11814)), followed by a post processing module. The evaluation showed that the upcoming road profile can be estimated using monocular vision.
+    This thesis investigates whether monocular vision can be used for real-time 3D road profile estimation. Since the road profile significantly affects passenger comfort and vehicle dynamics, its estimation is crucial for active suspension systems allowing to improve both aspects. The developed concept combines a Visual Odometry approach (i.e. [DVSO](https://arxiv.org/abs/1807.02570)) with a dense reconstruction method  (i.e. [MonoRec](https://arxiv.org/abs/2011.11814)), followed by a post processing module. The evaluation showed that the upcoming road profile can be estimated using monocular vision.
 
 * **Deep Learning Lab 22/23:** Diabetic Retinopathy Detection and Human Activity Recognition [private]
 
@@ -42,4 +42,4 @@ Key skills: Deep Learning and Computer Vision in <img align='center' src="https:
     |:--:|:--:|
     |Concept| Prognosis of therapy length [0,3] for (A) one patient and (B) a patient cohort (20 patients)|
 
-    This paper reported a novel modeling methodology which aims to not only assist physicians in their decisions, but also inform about uncertenties of the given recommendation (i.e. therapy) in a comprehensive, user-centered way. This is enabled by combining structural explainable models, defined on Logic Neural Networks (LONNs) which replace conventional deep-learning methods with logical gates embedded in neural networks, and Bayesian Networks (BNs) to model data uncertainties. An evaluation based on a database for patients with heart insufficiency demonstrates the functionality of the methodology. For more information, feel free to read the corresponding [paper](https://doi.org/10.3389/fbinf.2023.1082941).
+    This paper reports on a novel modelling methodology that aims not only to assist physicians in their decisions, but also to inform them about uncertainties of the given recommendation (i.e. therapy) in a comprehensive and user-centered way. This is made possible by combining structural explainable models defined on Logic Neural Networks (LONNs), which replace conventional deep learning methods with logical gates embedded in neural networks, and Bayesian Networks (BNs) to model data uncertainties. An evaluation based on a database of patients with heart insufficiency demonstrates the functionality of the methodology. For more information, please read the corresponding [paper](https://doi.org/10.3389/fbinf.2023.1082941).
