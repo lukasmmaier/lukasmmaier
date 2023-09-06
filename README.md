@@ -1,11 +1,13 @@
-# Hello there, I'm Lukas Maier!
+# Hello there :wave:, I'm Lukas Maier!
 M.Sc. Student @ Uni Stuttgart
 
 [![Linkedin: Lukas Maier](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=linkedin)](https://www.linkedin.com/in/lukasmmaier)
 
 ### About me...
 
+I enjoy bringing new functionalities into all aspects of life (especially the automotive sector) by leveraging the power of Deep Learning methods. 
 
+While I got into Artificial Intelligence at the end of my Bachelor's degree in Automotive Engineering at HS Esslingen, I'm currently enjoying learning more about Deep Learning and Computer Vision in the Master's programme in Electromobility at the Uni Stuttgart.
 
 Key skills: Deep Learning and Computer Vision in <img align='center' src="https://img.shields.io/badge/Python-000000?style=flat&logo=python"> with <img align='center' src="https://img.shields.io/badge/Tensorflow-000000?style=flat&logo=tensorflow">.
 
