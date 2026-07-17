@@ -12,7 +12,7 @@ While I got into Artificial Intelligence at the end of my Bachelor's degree in A
 Key skills: Deep Learning and Computer Vision in <img align='center' src="https://img.shields.io/badge/Python-000000?style=flat&logo=python"> with <img align='center' src="https://img.shields.io/badge/Tensorflow-000000?style=flat&logo=tensorflow">.
 
 ### Projects
-* **Master Thesis:** *in progress...*
+* **Master Thesis:** Monocular 3D Road Profile Estimation using Planar Parallax
 
 * **Research Thesis:** 3D Road Profile Estimation based on Monocular Vision [[public]](https://github.com/lukasmmaier/Road-Profile-Estimation)
 
