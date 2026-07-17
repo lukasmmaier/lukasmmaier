@@ -14,6 +14,8 @@ Key skills: Deep Learning and Computer Vision in <img align='center' src="https:
 ### Projects
 * **Master Thesis:** Monocular 3D Road Profile Estimation using Planar Parallax
 
+    <img align='center' src="https://img.shields.io/badge/Python-000000?style=flat&logo=python"><img align='center' src="https://img.shields.io/badge/Tensorflow-000000?style=flat&logo=tensorflow"><img align='center' src="https://img.shields.io/badge/OpenCV-000000?style=flat&logo=opencv">
+
 * **Research Thesis:** 3D Road Profile Estimation based on Monocular Vision [[public]](https://github.com/lukasmmaier/Road-Profile-Estimation)
 
     <img align='center' src="https://img.shields.io/badge/Python-000000?style=flat&logo=python"><img align='center' src="https://img.shields.io/badge/Tensorflow-000000?style=flat&logo=tensorflow">
