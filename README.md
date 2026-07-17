@@ -12,7 +12,7 @@ While I got into Artificial Intelligence at the end of my Bachelor's degree in A
 Key skills: Deep Learning and Computer Vision in <img align='center' src="https://img.shields.io/badge/Python-000000?style=flat&logo=python"> with <img align='center' src="https://img.shields.io/badge/Tensorflow-000000?style=flat&logo=tensorflow">.
 
 ### Projects
-* **Master Thesis:** Monocular 3D Road Profile Estimation using Planar Parallax
+* **Master Thesis:** Monocular 3D Road Profile Estimation using Planar Parallax [private]
 
     <img align='center' src="https://img.shields.io/badge/Python-000000?style=flat&logo=python"><img align='center' src="https://img.shields.io/badge/Tensorflow-000000?style=flat&logo=tensorflow"><img align='center' src="https://img.shields.io/badge/OpenCV-000000?style=flat&logo=opencv">
 
