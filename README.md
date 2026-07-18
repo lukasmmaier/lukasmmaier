@@ -1,5 +1,4 @@
 # Hello there :wave:, I'm Lukas Maier!
-M.Sc. Student @ Uni Stuttgart
 
 [![Linkedin: Lukas Maier](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=linkedin)](https://www.linkedin.com/in/lukasmmaier)
 
